@@ -1,0 +1,44 @@
+Cisco Packet Tracer PC Command Line 1.0
+C:\>ping 192.168.20.1
+
+Pinging 192.168.20.1 with 32 bytes of data:
+
+Reply from 192.168.20.1: bytes=32 time<1ms TTL=255
+Reply from 192.168.20.1: bytes=32 time<1ms TTL=255
+Reply from 192.168.20.1: bytes=32 time<1ms TTL=255
+Reply from 192.168.20.1: bytes=32 time<1ms TTL=255
+
+Ping statistics for 192.168.20.1:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+C:\>ping 192.168.10.10
+
+Pinging 192.168.10.10 with 32 bytes of data:
+
+Reply from 192.168.10.10: bytes=32 time=20ms TTL=126
+Reply from 192.168.10.10: bytes=32 time=14ms TTL=126
+Reply from 192.168.10.10: bytes=32 time=13ms TTL=126
+Reply from 192.168.10.10: bytes=32 time=9ms TTL=126
+
+Ping statistics for 192.168.10.10:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 9ms, Maximum = 20ms, Average = 14ms
+
+C:\>ping 192.168.30.10
+
+Pinging 192.168.30.10 with 32 bytes of data:
+
+Reply from 192.168.30.10: bytes=32 time=34ms TTL=125
+Reply from 192.168.30.10: bytes=32 time=19ms TTL=125
+Reply from 192.168.30.10: bytes=32 time=19ms TTL=125
+Reply from 192.168.30.10: bytes=32 time=18ms TTL=125
+
+Ping statistics for 192.168.30.10:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 18ms, Maximum = 34ms, Average = 22ms
+
+C:\>

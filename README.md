@@ -1,0 +1,1 @@
+Project ini melanjutkan topologi multi-site routing dengan mengganti static routing menjadi dynamic routing protocol OSPF (Open Shortest Path First). Project ini menunjukkan pemahaman tentang routing protocol, konfigurasi OSPF area, serta verifikasi neighbor dan routing table secara dinamis.
